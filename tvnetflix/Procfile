@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath tvnetflix tvnetflix.wsgi
+web: gunicorn --pythonpath tvnetflix.wsgi
